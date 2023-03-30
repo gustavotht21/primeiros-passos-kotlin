@@ -1,0 +1,3 @@
+fun main () {
+  // Um arquivo Java e um arquivo Kotlin são diferentes em sua sintaxe e estrutura, mas ambos são arquivos de código fonte usados para desenvolver aplicativos na plataforma Java. O Java é uma linguagem de programação mais antiga e amplamente usada, enquanto o Kotlin é uma linguagem mais nova que foi desenvolvida para superar algumas das limitações do Java. Uma das principais diferenças é que o Kotlin é mais conciso e legível do que o Java, graças ao uso de recursos como a inferência de tipos e a sintaxe simplificada para operações comuns. Além disso, o Kotlin suporta recursos avançados, como a programação orientada a objetos e a programação funcional, o que o torna mais flexível e poderoso do que o Java em alguns aspectos.
+}
